@@ -17,6 +17,15 @@ Este proyecto es una aplicación desarrollada en Java que utiliza SQL Server com
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local:
+Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/ElaRCamo/ParkMonitor.git
+```
+
+
+## Licencia
+
+**© Grammer Automotive Puebla S.A. de C.V. — Todos los derechos reservados.**  
+Este software es de **uso interno y propietario**.  
+Queda **prohibida** su copia, modificación, distribución o uso con fines distintos a los autorizados por **Grammer**.  
+Para soporte o autorización de uso, contactar al área de **TI** de Grammer.
